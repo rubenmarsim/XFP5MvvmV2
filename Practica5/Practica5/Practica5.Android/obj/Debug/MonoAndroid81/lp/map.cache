@@ -1,6 +1,15 @@
-Practica5
-System.Runtime
+CommonServiceLocator
 FormsViewGroup
+Practica5
+System.Configuration.ConfigurationManager
+System.Runtime
+Unity.Abstractions
+Unity.Configuration
+Unity.Container
+Unity.Interception.Configuration
+Unity.Interception
+Unity.RegistrationByConvention
+Unity.ServiceLocation
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
 Xamarin.Android.Arch.Lifecycle.Runtime
@@ -24,3 +33,4 @@ Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
+netstandard
