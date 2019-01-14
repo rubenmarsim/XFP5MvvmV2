@@ -126,9 +126,7 @@ C:\Users\admin\Documents\GitHub\XFP5MvvmV2\Practica5\Practica5\Practica5.Android
 C:\Users\admin\Documents\GitHub\XFP5MvvmV2\Practica5\Practica5\Practica5.Android\obj\Debug\MonoAndroid81\android\assets\Unity.ServiceLocation.pdb
 C:\Users\admin\Documents\GitHub\XFP5MvvmV2\Practica5\Practica5\Practica5.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\admin\Documents\GitHub\XFP5MvvmV2\Practica5\Practica5\Practica5.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
-C:\Users\admin\Documents\GitHub\XFP5MvvmV2\Practica5\dll\netstandard2.0\Practica5.dll
 C:\Users\admin\Documents\GitHub\XFP5MvvmV2\Practica5\Practica5\Practica5.Android\obj\Debug\MonoAndroid81\linksrc\Practica5.Android.pdb
-C:\Users\admin\Documents\GitHub\XFP5MvvmV2\Practica5\Practica5\Practica5.Android\bin\Debug\Practica5.dll.mdb
 C:\Users\admin\Documents\GitHub\XFP5MvvmV2\Practica5\Practica5\Practica5.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
 C:\Users\admin\Documents\GitHub\XFP5MvvmV2\Practica5\Practica5\Practica5.Android\obj\Debug\MonoAndroid81\linksrc\Practica5.dll.mdb
 C:\Users\admin\Documents\GitHub\XFP5MvvmV2\Practica5\Practica5\Practica5.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

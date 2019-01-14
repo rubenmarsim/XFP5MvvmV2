@@ -4,13 +4,17 @@
              x:Class="Practica5.Views.MainView">
     <ContentPage.Content>
         <StackLayout>
+            <Label
+                Text="{Binding Header}"
+                VerticalOptions="Start"
+                HorizontalOptions="CenterAndExpand"/>
             <Button
                 Text="Enviar"
                 Command="{Binding HelloCommand}"/>
             <Label
                 Text="{Binding Message}"
-                VerticalOptions="Center"
-                HorizontalOptions="Center"/>
+                VerticalOptions="Start"
+                HorizontalOptions="CenterAndExpand"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
