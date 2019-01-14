@@ -21,14 +21,24 @@ namespace Practica5.Models
             _clicCounter = 0;
         }
         #region Binding Properties
+        /// <summary>
+        /// Propiedad del label del encabezado
+        /// </summary>
         public string Header
         {
             get { return string.Format("Practica 5 MVVM Rubén Martinez"); }
         }
+        /// <summary>
+        /// Propiedad del mensaje que va a ir contando las veces que pulsamos el boton
+        /// </summary>
         public string Message
         {
             get { return string.Format("Botón pulsado {0} veces", _clicCounter); }
         }
+        /// <summary>
+        /// Propiedad que actua cuando se pulsa el boton
+        /// y lo que hace es llamar al metodo de execucion
+        /// </summary>
         public ICommand HelloCommand
         {
             get { return _helloCommand = _helloCommand ?? new DelegateCommand(HelloCommandExecute); }
