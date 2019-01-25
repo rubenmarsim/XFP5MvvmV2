@@ -10,10 +10,14 @@ namespace Practica5.ViewModels.Base
 {
 	public class ViewModelLocator
 	{
+		/// <summary>
+		/// Creamos un Unity Container al cual solo podemos acceder para leerlo
+		/// </summary>
 		readonly IUnityContainer _container;
 
 		public ViewModelLocator()
 		{
+			///Instanciamos el container
 			_container = new UnityContainer();
 
 			//ViewModels
